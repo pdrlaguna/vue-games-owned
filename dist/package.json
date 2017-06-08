@@ -1,0 +1,10 @@
+{
+ "name": "vue-games-owned",
+ "version": "1.0.0",
+ "description": "just a project so i can learn vue, firebase, webpack and heroku",
+ "author": "pedro laguna",
+ "private": true,
+ "scripts": {
+   "postinstall": "npm install express"
+ }
+}
